@@ -12,5 +12,5 @@ Pod::Spec.new do |s|
   
   s.source_files = 'Source/**/*.swift'
   s.exclude_files = 'Tests/*'
-  s.dependency 'RealmSwift', '2.10.0'
+  s.dependency 'RealmSwift', '3.14.1'
 end
